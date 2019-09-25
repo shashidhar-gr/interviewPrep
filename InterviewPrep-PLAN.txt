@@ -1,0 +1,24 @@
+Daily activity: (6+ hours)
+	1. Problem solving - DS, Algos
+	2. React.js application development(HTML5, CSS3, SAAS, Bootstrap, MAterials Design, Continous intergration and deployment)
+	3. ES6 concepts and Object oriented programming - Work on a single Design Pattern(Node and JavaSctipt)
+	4. System Design, Scalability, Data Handling
+	5. SQL and NoSQL
+
+Weekend activity: (12+)
+	1. Revision.
+	2. Operating System concepts, Computer Networks.
+	3. Problem solving(DS and Algos), System design and interview questions companywise.
+
+Resource:
+	1. Problem solving - DS, Algos - Refer Daily coding problem and geek for geeks.
+	2. React.js application development - Refer Official documentation and Udemy course.
+	3. Object oriented programming - Refer
+	4. ES6 concepts - Refer official documentation. System design - 
+
+
+
+
+	
+ 
+

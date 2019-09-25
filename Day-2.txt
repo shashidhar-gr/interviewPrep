@@ -1,0 +1,5 @@
+1. Algos and DS
+2. React.js application
+3. ES6 concepts and Object oriented programming
+4. System Design, Scalability, Data Handling
+5. SQL and NoSQL
