@@ -2,5 +2,37 @@
     Completed - Finding duplicates in array in linear time and constant space.
 2. React.js application
 3. ES6 concepts and Object oriented programming
+    Reading Eloquent Javascript
 4. System Design, Scalability, Data Handling
 5. SQL and NoSQL
+
+Notes:
+ES6 concepts and Object oriented programming
+    Reading Eloquent Javascript
+        Number:
+        Javascript use 64 bits to represent Number.
+        Special numbers: Infinity, -Infinity, NaN
+        Infinity - Infinity = NaN
+        0/0 = NaN
+        There is only on number that is not equal to itself, that is NaN
+        NaN is used to denote the result of nonsensical computation, and such, it 
+        isnt equal to result of any other nonsensical computation
+        NaN == NaN returns false
+
+        String:
+        Javascript use 16 bits to represent String.
+        Unicode - standard that gives a number for each and every character that ever need.
+        Javascript represent String as sequence of these respective numbers for characters.
+        Special characters - like emoji may not be represented in 16 bits in Javascript.
+        Javascript use 2 16bits to represent these special characters.
+
+        String comarision
+        'A' < 'Z' returns true
+        Javascript goes from left to right character by character and compare the Unicode number
+        Uppercase letters are always less than lower case letters
+
+        Emty values:
+        Javascript has two special values, null and undefined.
+        These are used to denote absense of meaningful values. They are themselves values but caryy no information.
+        Both can be used interchangebly
+
