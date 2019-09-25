@@ -1,4 +1,5 @@
 1. Algos and DS
+    Completed - Finding duplicates in array in linear time and constant space.
 2. React.js application
 3. ES6 concepts and Object oriented programming
 4. System Design, Scalability, Data Handling
