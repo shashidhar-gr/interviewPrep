@@ -3,5 +3,6 @@
 2. React.js application
     Working on tik-tak-toe tutorial program
 3. ES6 concepts and Object oriented programming
+    Reading Eloquent Javascript
 4. System Design, Scalability, Data Handling
 5. SQL and NoSQL
