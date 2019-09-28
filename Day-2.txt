@@ -8,19 +8,22 @@
 
 Notes:
 ES6 concepts and Object oriented programming
+    
     Reading Eloquent Javascript
+        Chapter 01: 
+
         Number:
         Javascript use 64 bits to represent Number.
         Special numbers: Infinity, -Infinity, NaN
         Infinity - Infinity = NaN
         0/0 = NaN
-        There is only on number that is not equal to itself, that is NaN
-        NaN is used to denote the result of nonsensical computation, and such, it 
+        There is only one number that is not equal to itself, that is NaN
+        NaN is used to denote the result of nonsensical computation, as such, it 
         isnt equal to result of any other nonsensical computation
         NaN == NaN returns false
 
         String:
-        Javascript use 16 bits to represent String.
+        Javascript use 16 bits to represent each character in a String.
         Unicode - standard that gives a number for each and every character that ever need.
         Javascript represent String as sequence of these respective numbers for characters.
         Special characters - like emoji may not be represented in 16 bits in Javascript.
@@ -33,6 +36,6 @@ ES6 concepts and Object oriented programming
 
         Emty values:
         Javascript has two special values, null and undefined.
-        These are used to denote absense of meaningful values. They are themselves values but caryy no information.
+        These are used to denote absense of meaningful values. They are themselves values but carry no information.
         Both can be used interchangebly
 

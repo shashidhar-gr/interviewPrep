@@ -1,0 +1,6 @@
+Notes:
+ES6 concepts and Object oriented programming
+    
+    Reading Eloquent Javascript
+    Functions and Scope (Chapter - 03)
+
