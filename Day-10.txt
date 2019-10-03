@@ -1,0 +1,2 @@
+Working on Angular Introduction Application.
+Started Working on basic javascript datastructures.
